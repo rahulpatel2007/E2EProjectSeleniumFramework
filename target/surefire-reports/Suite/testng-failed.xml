@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="academy.Listeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Login test(failed)" parallel="tests">
+    <classes>
+      <class name="academy.Login">
+        <methods>
+          <include name="destroy"/>
+          <include name="init"/>
+          <include name="launchHome"/>
+        </methods>
+      </class> <!-- academy.Login -->
+    </classes>
+  </test> <!-- Login test(failed) -->
+  <test thread-count="5" verbose="0" name="assertion test(failed)" parallel="tests">
+    <classes>
+      <class name="academy.AssertionExample">
+        <methods>
+          <include name="checkText"/>
+          <include name="destroy"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- academy.AssertionExample -->
+    </classes>
+  </test> <!-- assertion test(failed) -->
+  <test thread-count="5" verbose="0" name="Home test(failed)" parallel="tests">
+    <classes>
+      <class name="academy.Home">
+        <methods>
+          <include name="init"/>
+          <include name="launchHome"/>
+          <include name="destroy"/>
+        </methods>
+      </class> <!-- academy.Home -->
+    </classes>
+  </test> <!-- Home test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

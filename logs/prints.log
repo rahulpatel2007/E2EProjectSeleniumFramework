@@ -1,0 +1,7 @@
+00:17:07.932 [main] INFO  academy.AssertionExample - url launched
+00:17:09.710 [main] INFO  academy.Home - username and password entered.
+00:17:11.091 [main] INFO  academy.Home - username and password entered.
+00:17:12.889 [main] INFO  academy.AssertionExample - clicked on login
+00:17:14.468 [main] INFO  academy.AssertionExample - driver closed.
+00:17:14.745 [main] INFO  academy.Home - driver closed.
+00:17:19.133 [main] INFO  academy.AssertionExample - driver closed.

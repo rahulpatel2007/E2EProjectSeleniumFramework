@@ -1,0 +1,8 @@
+23:57:48.560 [main] INFO  academy.AssertionExample - url launched
+23:57:52.861 [main] INFO  academy.Home - driver initialised.
+23:58:08.887 [main] INFO  academy.Home - url launched
+23:58:18.746 [main] INFO  academy.AssertionExample - driver initialised
+23:58:35.096 [main] INFO  academy.AssertionExample - url launched
+23:58:37.473 [main] INFO  academy.Home - username and password entered.
+23:58:38.664 [main] INFO  academy.Home - username and password entered.
+23:58:42.510 [main] INFO  academy.AssertionExample - clicked on login

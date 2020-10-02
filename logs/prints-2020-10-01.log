@@ -1,0 +1,8 @@
+00:13:18.730 [main] INFO  academy.AssertionExample - driver closed.
+00:13:19.327 [main] INFO  academy.Home - driver closed.
+00:13:19.609 [main] INFO  academy.AssertionExample - driver closed.
+00:16:39.187 [main] INFO  academy.AssertionExample - driver initialised.
+00:16:44.695 [main] INFO  academy.AssertionExample - url launched
+00:16:48.631 [main] INFO  academy.Home - driver initialised.
+00:16:54.540 [main] INFO  academy.Home - url launched
+00:17:01.767 [main] INFO  academy.AssertionExample - driver initialised
